@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: cn.stylefeng.guns.system.DeptTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 1, Skipped: 0, Time elapsed: 0.079 s <<< FAILURE! - in cn.stylefeng.guns.system.DeptTest
+updateTest(cn.stylefeng.guns.system.DeptTest)  Time elapsed: 0.036 s  <<< ERROR!
+java.lang.NullPointerException
+	at cn.stylefeng.guns.system.DeptTest.updateTest(DeptTest.java:40)
+
+listTest(cn.stylefeng.guns.system.DeptTest)  Time elapsed: 0.013 s  <<< FAILURE!
+java.lang.AssertionError
+	at cn.stylefeng.guns.system.DeptTest.listTest(DeptTest.java:55)
+
+deleteTest(cn.stylefeng.guns.system.DeptTest)  Time elapsed: 0.013 s  <<< FAILURE!
+java.lang.AssertionError
+	at cn.stylefeng.guns.system.DeptTest.deleteTest(DeptTest.java:49)
+

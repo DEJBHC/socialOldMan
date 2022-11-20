@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cn.stylefeng.guns.system.MenuTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.82 s - in cn.stylefeng.guns.system.MenuTest

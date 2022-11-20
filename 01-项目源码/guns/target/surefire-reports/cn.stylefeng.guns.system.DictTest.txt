@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: cn.stylefeng.guns.system.DictTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.065 s <<< FAILURE! - in cn.stylefeng.guns.system.DictTest
+addTest(cn.stylefeng.guns.system.DictTest)  Time elapsed: 0.021 s  <<< ERROR!
+cn.stylefeng.roses.kernel.model.exception.ServiceException: 字典已经存在
+	at cn.stylefeng.guns.system.DictTest.addTest(DictTest.java:31)
+
+editTest(cn.stylefeng.guns.system.DictTest)  Time elapsed: 0.015 s  <<< ERROR!
+cn.stylefeng.roses.kernel.model.exception.ServiceException: 字典已经存在
+	at cn.stylefeng.guns.system.DictTest.editTest(DictTest.java:36)
+
